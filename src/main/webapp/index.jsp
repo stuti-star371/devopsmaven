@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>kubernet is orchastration tool</h2>
+<h2>kubernet and docker are topics for this session</h2>
 </body>
 </html>
